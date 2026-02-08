@@ -10,7 +10,7 @@
 
 #### 软件架构
 
-详情见B站网址:
+详情见B站网址:[keel代码框架案例分析-I2c_Gpio模块](https://www.bilibili.com/video/BV1iFFZzBEf7/?share_source=copy_web&vd_source=64c3d4dffc93e47357ce5ad280f13d59)
 
 
 #### 使用说明
